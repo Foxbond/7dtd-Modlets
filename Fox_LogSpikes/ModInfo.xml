@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Log Spikes" />
+        <Description value="Adds recipes for the wood log spike and scrap iron spike." />
+        <Author value="Foxbond" />
+        <Version value="1.0.0" />
+    </ModInfo>
+</xml>
